@@ -10,7 +10,10 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 ## 🛠️ Habilidades Desenvolvidas
 
-<p align="left">
+## 🛠️ Habilidades Desenvolvidas
+
+<div style="display: flex; gap: 15px; align-items: center;">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
        alt="Delphi" title="Delphi" width="60" height="60"/>
 
@@ -24,7 +27,8 @@ Fique à vontade para explorar meus repositórios! 🚀
        alt="IBExpert / Banco de Dados"
        title="IBExpert - Administração de Banco de Dados"
        width="60" height="60"/>
-</p>
+
+</div>
 
 ---
 
