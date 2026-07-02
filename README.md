@@ -16,9 +16,10 @@ Fique à vontade para explorar meus repositórios! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg" 
        alt="Firebird" title="Firebird" width="50" height="50"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" 
-       alt="Database / IBExpert" title="IBExpert (Ferramenta de banco de dados)" width="50" height="50"/>
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" 
+       alt="IBExpert (Ferramenta de banco de dados)" 
+       title="IBExpert - Administração de Banco de Dados" 
+       width="50" height="50"/>
        
 </p>
 <div align="center">
