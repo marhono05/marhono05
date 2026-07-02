@@ -1,31 +1,35 @@
+## 👤 Sobre mim
+
 Tenho 24 anos e sou estudante de Desenvolvimento de Sistemas. Gosto de tecnologia e de entender como as coisas funcionam, seja desenvolvendo aplicações ou ajudando a resolver problemas do dia a dia.
 
-Atualmente, ofereço suporte em aplicações do Delphi, também trabalhando com manutenção, implementação de funcionalidades e integração com Firebird. Aqui no GitHub compartilho alguns dos projetos que fazem parte da minha jornada de aprendizado e desenvolvimento.
+Atualmente, ofereço suporte em aplicações Delphi, atuando também com manutenção, implementação de funcionalidades e integração com Firebird. Aqui no GitHub compartilho alguns dos projetos que fazem parte da minha jornada de aprendizado e desenvolvimento.
 
 Fique à vontade para explorar meus repositórios! 🚀
 
-🛠️ Habilidades Desenvolvidas
+---
+
+## 🛠️ Habilidades Desenvolvidas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" 
-       alt="Delphi" title="Delphi" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
+       alt="Delphi" title="Delphi" width="60" height="60"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-       alt="MySQL" title="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       alt="MySQL" title="MySQL" width="60" height="60"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg" 
-       alt="Firebird" title="Firebird" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg"
+       alt="Firebird" title="Firebird" width="60" height="60"/>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" 
-       alt="IBExpert (Ferramenta de banco de dados)" 
-       title="IBExpert - Administração de Banco de Dados" 
-       width="50" height="50"/>
-       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg"
+       alt="IBExpert / Banco de Dados"
+       title="IBExpert - Administração de Banco de Dados"
+       width="60" height="60"/>
 </p>
+
+---
+
 <div align="center">
 
-"Clean code always looks like it was written by someone who cares."
-
-</div>
+*"Clean code always looks like it was written by someone who cares."*
 
 </div>
