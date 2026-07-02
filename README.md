@@ -10,17 +10,27 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 ## 🛠️ Habilidades Desenvolvidas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
-       alt="Delphi" title="Delphi" width="60" height="60"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
+           width="60"/><br/>
+      Delphi
+    </td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL" title="MySQL" width="60" height="60"/>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+           width="60"/><br/>
+      MySQL
+    </td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg"
-       alt="Firebird" title="Firebird" width="60" height="60"/>
-</p>
-
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg"
+           width="60"/><br/>
+      Firebird
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
