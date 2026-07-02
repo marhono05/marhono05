@@ -18,6 +18,9 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 <div align="center">
 
+---
+
+
 *"Clean code always looks like it was written by someone who cares."*
 
 </div>
