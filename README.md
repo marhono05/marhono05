@@ -1,15 +1,12 @@
-## Me chamo Marcelo, tenho 23 anos, estudante do curso Desenvolvimento de Sistemas. 
+Tenho 24 anos e sou estudante de Desenvolvimento de Sistemas. Gosto de tecnologia e de entender como as coisas funcionam, seja desenvolvendo aplicações ou ajudando a resolver problemas do dia a dia.
 
-Apaixonado por desenvolvimento de software, com foco na criação de aplicações robustas, organizadas e de alta performance utilizando Delphi e MySQL.
+Atualmente, ofereço suporte em aplicações do Delphi, também trabalhando com manutenção, implementação de funcionalidades e integração com Firebird. Aqui no GitHub compartilho alguns dos projetos que fazem parte da minha jornada de aprendizado e desenvolvimento.
 
-Sempre em busca de evolução profissional, aprimorando conhecimentos em arquitetura de software, banco de dados e boas práticas de desenvolvimento.
+Fique à vontade para explorar meus repositórios! 🚀
 
+🛠️ Habilidades Desenvolvidas
 
-- Aprimorar conhecimentos em arquitetura de software.
-- Desenvolver aplicações cada vez mais eficientes em Delphi.
-- Expandir conhecimentos em bancos de dados relacionais.
-- Contribuir com projetos Open Source.
-
+<p align="left"> <img src="./assets/delphi.svg" alt="Delphi" title="Delphi" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" height="50"/> <img src="./assets/firebird.svg" alt="Firebird" title="Firebird" width="50" height="50"/> <img src="./assets/ibexpert.png" alt="IBExpert" title="IBExpert" width="50" height="50"/> </p>
 
 <div align="center">
 
