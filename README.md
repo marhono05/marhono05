@@ -7,10 +7,13 @@ Fique à vontade para explorar meus repositórios! 🚀
 🛠️ Habilidades Desenvolvidas
 
 <p align="left">
-  <img src="./assets/delphi.png" width="50" height="50" alt="Delphi"/>
-  <img src="./assets/mysql.png" width="50" height="50" alt="MySQL"/>
-  <img src="./assets/firebird.png" width="50" height="50" alt="Firebird"/>
-  <img src="./assets/ibexpert.png" width="50" height="50" alt="IBExpert"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Delphi_Logo_12.svg" alt="Delphi" title="Delphi" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Firebird_logo.svg" alt="Firebird" title="Firebird" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg" alt="Database / IBExpert" title="IBExpert (uso com bancos de dados)" width="50" height="50"/>
 </p>
 
 <div align="center">
