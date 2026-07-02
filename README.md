@@ -1,17 +1,20 @@
-## Me chamo Marcelo, tenho 23 anos, estou aprendendo sobre programação!
-My name is Marcelo, I'm 23 years old, I'm learning about programming!👋
+## Me chamo Marcelo, tenho 23 anos, estudante do curso Desenvolvimento de Sistemas. 
 
-<!--
-**marhono05/marhono05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por desenvolvimento de software, com foco na criação de aplicações robustas, organizadas e de alta performance utilizando Delphi e MySQL.
 
-Here are some ideas to get you started:
+Sempre em busca de evolução profissional, aprimorando conhecimentos em arquitetura de software, banco de dados e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Aprimorar conhecimentos em arquitetura de software.
+- Desenvolver aplicações cada vez mais eficientes em Delphi.
+- Expandir conhecimentos em bancos de dados relacionais.
+- Contribuir com projetos Open Source.
+
+
+<div align="center">
+
+"Clean code always looks like it was written by someone who cares."
+
+</div>
+
+</div>
