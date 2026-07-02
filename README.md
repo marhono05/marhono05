@@ -10,10 +10,7 @@ Fique à vontade para explorar meus repositórios! 🚀
 
 ## 🛠️ Habilidades Desenvolvidas
 
-## 🛠️ Habilidades Desenvolvidas
-
-<div style="display: flex; gap: 15px; align-items: center;">
-
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
        alt="Delphi" title="Delphi" width="60" height="60"/>
 
@@ -22,13 +19,7 @@ Fique à vontade para explorar meus repositórios! 🚀
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg"
        alt="Firebird" title="Firebird" width="60" height="60"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-original.svg"
-       alt="IBExpert / Banco de Dados"
-       title="IBExpert - Administração de Banco de Dados"
-       width="60" height="60"/>
-
-</div>
+</p>
 
 ---
 
